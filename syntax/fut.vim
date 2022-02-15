@@ -26,7 +26,7 @@ syn keyword conditional if then else
 syn keyword Statement loop with entry for while do in local val
 syn keyword keyword concat zip unzip unsafe
 syn keyword typedef type
-syn keyword FutharkBinding let entry nextgroup=FutIdentifier skipwhite skipempty
+syn keyword FutharkBinding def let entry nextgroup=FutIdentifier skipwhite skipempty
 syn keyword PreProc module open import nextgroup=FutIdentifier skipwhite skipempty
 
 syn keyword function map map1 map2 map3 map4 map5 stream_map stream_map_per
