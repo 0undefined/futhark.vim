@@ -1,4 +1,4 @@
-" ftplugin/fut.vim
+" ftplugin/futhark.vim
 setlocal commentstring=--%s
 setlocal iskeyword+=',_
 setlocal tabstop=2
